@@ -1,7 +1,7 @@
 
 # Trigonometric Expression Evaluator
 
-Welcome to the **Trigonometric Expression Evaluator**, a lightweight and efficient program designed to parse and evaluate complex mathematical expressions. Built using the powerful principles of **LL(1) grammar** and **recursive descent parsing**, this evaluator is perfect for anyone delving into compiler design, numerical computations, or advanced mathematics.
+**Trigonometric Expression Evaluator**, a lightweight and efficient program designed to parse and evaluate complex mathematical expressions. Built using the powerful principles of **LL(1) grammar** and **recursive descent parsing**, this evaluator is perfect for anyone delving into compiler design, numerical computations, or advanced mathematics.
 
 ## 👾 Features
 
