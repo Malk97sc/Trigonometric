@@ -80,20 +80,4 @@ The evaluator operates in three major steps:
 2. **Parsing**: Using recursive descent parsing, the program checks the syntax and evaluates the expression according to the defined grammar rules.
 3. **Evaluation**: The program computes the result by following mathematical precedence and converting degrees to radians for trigonometric calculations.
 
-## 🤝 Contributions
-
-Want to improve the evaluator or add new features? Here's how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and submit a pull request.
-
-Your contributions are always welcome!
-
-## 📜 License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute the code, as long as proper credit is given. See the [LICENSE](LICENSE) file for more details.
-
----
-
 Happy coding and evaluating! 🎉
