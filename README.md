@@ -80,4 +80,3 @@ The evaluator operates in three major steps:
 2. **Parsing**: Using recursive descent parsing, the program checks the syntax and evaluates the expression according to the defined grammar rules.
 3. **Evaluation**: The program computes the result by following mathematical precedence and converting degrees to radians for trigonometric calculations.
 
-Happy coding and evaluating! 🎉
