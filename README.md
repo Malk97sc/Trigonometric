@@ -20,7 +20,7 @@ Follow these simple steps to install, compile, and run the program.
 - GCC (GNU Compiler Collection) installed on your system.
 
 
-### 2. Compiling the Code
+### 2. Compiling
 
 Use the following command to compile the code:
 
@@ -30,7 +30,7 @@ gcc -o trig_evaluator trig_evaluator.c -lm
 
 - The `-lm` flag links the math library, which is essential for operations like `sin`, `cos`, and `pow`.
 
-### 3. Running the Program
+### 3. Running
 
 Run the program with the expression you want to evaluate as a command-line argument:
 
@@ -71,12 +71,3 @@ Here are some examples to help you get started:
   ```
   Result: 23.000000
   ```
-
-## 🛠️ How It Works
-
-The evaluator operates in three major steps:
-
-1. **Tokenization**: The input expression is scanned and broken into smaller, meaningful tokens (e.g., numbers, operators, functions).
-2. **Parsing**: Using recursive descent parsing, the program checks the syntax and evaluates the expression according to the defined grammar rules.
-3. **Evaluation**: The program computes the result by following mathematical precedence and converting degrees to radians for trigonometric calculations.
-
