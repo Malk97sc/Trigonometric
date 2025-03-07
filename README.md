@@ -3,14 +3,14 @@
 
 **Trigonometric Expression Evaluator**, a lightweight and efficient program designed to parse and evaluate complex mathematical expressions. Built using the powerful principles of **LL(1) grammar** and **recursive descent parsing**, this evaluator is perfect for anyone delving into compiler design, numerical computations, or advanced mathematics.
 
-## 👾 Features
+## Features
 
 - **Comprehensive Trigonometric Support**: Evaluate functions like `sin`, `cos`, and `tan` with degree input.
 - **Arithmetic Operations**: Perform operations such as `+`, `-`, `*`, `/`, and exponentiation `^`.
 - **Error Handling**: Detect invalid inputs, manage division by zero, and handle syntax errors gracefully.
 - **Educational Value**: A practical implementation of compiler theory concepts for real-world applications.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these simple steps to install, compile, and run the program.
 
@@ -38,7 +38,7 @@ Run the program with the expression you want to evaluate as a command-line argum
 ./trig_evaluator "<expression>"
 ```
 
-## 🔍 Examples
+## Examples
 
 Here are some examples to help you get started:
 
